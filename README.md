@@ -9,4 +9,5 @@
 백준 11단계 - 20단계 모든 문제 해결하기 
 
 # 현재 상태 🌱
-<img width="1149" alt="image" src="https://user-images.githubusercontent.com/42714724/179183293-17cf69f1-ffe8-4e6d-8baa-9d522cd055d9.png">
+<img width="1164" alt="image" src="https://user-images.githubusercontent.com/42714724/180594248-eff0ffa4-cea9-4e8e-8fda-4993540c9e9a.png">
+
